@@ -75,7 +75,7 @@ The second line contains N space separated integers, denoting the array elements
 -1000 <= arr[i] <= 1000
 </pre>
 
-**Input**
+**Input and Outputs**
 
 <pre>
 Sample Input 1
