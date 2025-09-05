@@ -67,12 +67,30 @@ We welcome contributions! Follow these steps to make a **proper Pull Request (PR
    ```bash
    git clone https://github.com/<your-username>/60Days-DSA-Challenge.git
    ```
-3. Create a new branch for your work
+3. Create a new branch for your work `(OPTIONAL)`
    ```bash
     git checkout -b day1-solutions
    ```
 4. Add your solution files inside the correct folder (e.g., Day1/Java/Que1.java)
 5. Commit your changes
+
+   ```bash
+
+   ```
+
+6. Push to your fork
+   - if branch created
+   ```bash
+    git push origin day1-solutions
+   ```
+   - if branch not created
+   ```bash
+    git push origin main
+   ```
+7. Open a Pull Request (PR) with the title:
+   ```bash
+       Day 1 Solutions in Java (UserName)
+   ```
 
 ### 🎯 Goal
 
