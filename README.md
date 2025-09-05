@@ -75,7 +75,8 @@ We welcome contributions! Follow these steps to make a **proper Pull Request (PR
 5. Commit your changes
 
    ```bash
-
+   git add .
+   git commit -m "Day 1 solutions in Java"
    ```
 
 6. Push to your fork
