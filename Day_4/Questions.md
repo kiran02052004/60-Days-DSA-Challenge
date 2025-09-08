@@ -1,97 +1,100 @@
-# 📅 Day 4 - Math & Logic Basics (Part 4)
+# 📅 Day 6 - Math & Logic Basics (Part 6)
 
-Today’s focus: **numbers and patterns**.
+Today’s focus: **unique logical problems without repetition**.
 
 ---
 
-## 🔹 Question 1: Sum of Digits
+## 🔹 Question 1: Check if Number is Automorphic
 
 **Description:**  
-Find the sum of digits of a given number.
+A number is automorphic if its square ends with the same number.
 
 **Input (bash):**
 
 ```bash
-1234
+25
 ```
 
 **Output:**
 
 ```bash
-10
+Automorphic
 ```
 
 ---
 
-## 🔹 Question 2: Reverse a Number
+## 🔹 Question 2: Check if Number is Harshad (Niven) Number
 
 **Description:**  
-Reverse the digits of a given number.
+A number is Harshad if it is divisible by the sum of its digits.
 
 **Input (bash):**
 
 ```bash
-12345
+18
 ```
 
 **Output:**
 
 ```bash
-54321
+Harshad Number
 ```
 
 ---
 
-## 🔹 Question 3: Factorial of a Number
+## 🔹 Question 3: Check if Number is a Happy Number
 
 **Description:**  
-Find the factorial of a given number.
-
-\*\*Input (
-
-````
-
-**Output:**
-```bash
-120
-````
-
----
-
-## 🔹 Question 4: Prime Number Check
-
-**Description:**  
-Check if a number is prime.
+A number is happy if repeatedly replacing it by the sum of squares of its digits leads to 1.
 
 **Input (bash):**
 
 ```bash
-29
+19
 ```
 
 **Output:**
 
 ```bash
-Prime
+Happy Number
 ```
 
 ---
 
-## 🔹 Question 5: Print First N Prime Numbers
+## 🔹 Question 4: Check if Number is a Spy Number
 
 **Description:**  
-Print the first N prime numbers.
+A number is spy if the sum of its digits equals the product of its digits.
 
 **Input (bash):**
 
 ```bash
-10
+1124
 ```
 
 **Output:**
 
 ```bash
-2 3 5 7 11 13 17 19 23 29
+Spy Number
+```
+
+---
+
+## 🔹 Question 5: Neon Number Check
+
+**Description:**  
+A number is neon if the sum of digits of its square equals the number itself.
+
+**Input (bash):**
+
+```bash
+9
+```
+
+**Output:**
+
+```bash
+Neon Number
 ```
 
 ---
