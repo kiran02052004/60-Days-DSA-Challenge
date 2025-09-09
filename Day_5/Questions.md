@@ -1,4 +1,4 @@
-# 📅 Day 7 - Math & Logic Basics (Part 7)
+# 📅 Day 5 - Math & Logic Basics (Part 7)
 
 Today’s focus: **unique number properties**.
 
